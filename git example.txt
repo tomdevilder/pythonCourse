@@ -3,7 +3,7 @@ execute the following commands in the terminal:
 
 C:\gitTmp> git add . 
 C:\gitTmp> git status
-On branch master
+On branch master Tom
 
 No commits yet
 
@@ -22,6 +22,9 @@ git push
 git pull
 git checkout main
 
+git clone 
 
 tomdevilder
 pythoniscool2024
+
+this is more info that Tom De Vilder did
