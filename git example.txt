@@ -6,7 +6,9 @@ execute the following commands in the terminal:
 
 C:\gitTmp> git add . 
 C:\gitTmp> git status
-On branch master
+
+On branch master Frank
+On branch master Tom
 
 No commits yet
 
@@ -18,12 +20,17 @@ PS C:\gitTmp> git commit -m "new file"
 
 ==> add this extra line: execute the commands once more
 
-git add . 
 git status
+git add . 
 git commit -m "added line"
 git push
+git pull
 git checkout main
 
+git clone 
 
 tomdevilder
 pythoniscool2024
+
+Frank added some text
+this is more info that Tom De Vilder did
