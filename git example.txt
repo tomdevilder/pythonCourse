@@ -18,7 +18,9 @@ PS C:\gitTmp> git commit -m "new file"
 git add . 
 git status
 git commit -m "added line"
+git push
 git checkout main
+
 
 tomdevilder
 pythoniscool2024
