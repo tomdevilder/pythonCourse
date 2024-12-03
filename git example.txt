@@ -1,0 +1,24 @@
+create a file in C:\gitTmp>
+execute the following commands in the terminal:
+
+C:\gitTmp> git add . 
+C:\gitTmp> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   git example.txt
+
+PS C:\gitTmp> git commit -m "new file"
+
+==> add this extra line: execute the commands once more
+
+git add . 
+git status
+git commit -m "added line"
+git checkout main
+
+tomdevilder
+pythoniscool2024
