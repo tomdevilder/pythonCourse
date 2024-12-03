@@ -3,7 +3,7 @@ execute the following commands in the terminal:
 
 C:\gitTmp> git add . 
 C:\gitTmp> git status
-On branch master
+On branch master Frank
 
 No commits yet
 
